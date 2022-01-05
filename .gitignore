@@ -1,2 +1,4 @@
 config.py
 __pycache__/config.cpython-310.pyc
+__pycache__/data_ingestion.cpython-310.pyc
+__pycache__/tweepy_streamer.cpython-310.pyc
